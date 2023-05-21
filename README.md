@@ -1,3 +1,4 @@
 # Merge-Conflits
-Git/github c'est pas très rigolo
 
+La grosse galère
+Git/github c'est pas très rigolo
